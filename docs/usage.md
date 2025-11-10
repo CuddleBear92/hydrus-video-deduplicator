@@ -29,6 +29,13 @@ After getting your API key, continue to [Running Video Dedupe](#running-video-de
 
 Run hydrusvideodeduplicator.exe and enter the Hydrus API key you created previously when prompted.
 
+Or alternatively make a shortcut with the launch commands.
+
+Example:
+`"C:\PATH\TO\EXE\hydrusvideodeduplicator.exe" --api-url=http://127.0.0.1:45869/ --api-key="APIKEYHERE"`
+
+This will skip the api key entry requirement and also enable you to use http without much effort or any other address.
+
 </details>
 
 <br>
